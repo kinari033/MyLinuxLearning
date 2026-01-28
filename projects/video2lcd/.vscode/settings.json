@@ -1,0 +1,13 @@
+{
+    // "C_Cpp.intelliSenseEngineFallback":"Disable",
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "files.associations": {
+        "fstream": "c"
+    },
+    // "files.associations": {
+    //     "module.h": "c",
+    //     "tty.h": "c",
+    //     "miscdevice.h": "c"
+    // },
+
+}
